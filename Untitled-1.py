@@ -12,6 +12,6 @@ if user_age_converted >= 15:
 
     print("Du får köra moppen.")
 else:
-    print("😘👌")
+    print("DU får ej köra moppen")
 
     #lektion nummer 2
